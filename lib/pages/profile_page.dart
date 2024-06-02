@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:social_app/components/my_drawer.dart';
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});
